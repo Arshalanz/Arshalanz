@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/mohammed-asad9/**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
-
 <img align="Center" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1616667695311?e=1729123200&v=beta&t=ECkw70IuKBblLCVlTn5Cw0_hW2WzJ9lWWZEKNSKRKC0">
 
 <h3 align="left">Languages and Tools:</h3>
